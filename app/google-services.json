@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221708488687",
+    "firebase_url": "https://phonecontroller-f013e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "phonecontroller-f013e",
+    "storage_bucket": "phonecontroller-f013e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221708488687:android:423aeaee43de289086f01a",
+        "android_client_info": {
+          "package_name": "com.phonecontroller.ken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221708488687-nrf4e74skrud8kmts3uq6ghqahuqm0se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhHjAmZ2QvFnLKFSen3opTf2n8fXJ7P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221708488687-nrf4e74skrud8kmts3uq6ghqahuqm0se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
